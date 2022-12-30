@@ -30,7 +30,8 @@ html,body {
 
 #About-Us-Image-Part{
     width:550px;
-    height: 450px;
+    height: 650px;
+    margin-left: -110px;
 }
 
 #Rightside-Aboutus{
@@ -53,9 +54,9 @@ html,body {
 .line
 {
     align-items: center;
-    width:90%;
+    width:100%;
     height:10px;
-    border-width:2; 
+    border-width:3; 
     color:black !important; 
     background-color:black !important;
 }
@@ -97,6 +98,7 @@ input {
 .Card {
     flex: 0 0 auto;
     width:400px;
+    height:500px;
     padding:60px;
     transition: all 0.3s;
     cursor: pointer;
@@ -133,7 +135,7 @@ border-radius: 160px;
     }
 
     #Header-Image-Area{
-        width:300px;
+        width:200px;
         height: 150px;
         margin-top:-40px;
         padding-right:35px;
